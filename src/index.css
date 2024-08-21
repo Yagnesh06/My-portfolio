@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-links a{
+    border-bottom: 1.5px solid white  ;
+}
+
+
+
+
+.para, .heading, h1,i, a{
+    text-shadow: 1px 1px 1px red;
+}
